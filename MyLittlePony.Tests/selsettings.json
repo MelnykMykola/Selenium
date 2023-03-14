@@ -1,7 +1,7 @@
 {
   "DriverConfiguration": {
     "DriverType": "Chrome",
-    "RunRemote": true,
+    "RunRemote": false,
     "Maximize": true,
     "Width": 500,
     "Height": 800,
